@@ -1,0 +1,68 @@
+{
+  "privacy_config": {
+    "local_dp_std": 0.01,
+    "global_dp_std": 0.005,
+    "dp_clip_norm": 1.0,
+    "secure_aggregation": true,
+    "encryption": false,
+    "num_clients": 3,
+    "rounds": 5,
+    "local_epochs": 5
+  },
+  "best_round": {
+    "timestamp": "2026-04-12T00:14:06.470364",
+    "round": 3,
+    "accuracy": 0.7215,
+    "local_dp_std": 0.01,
+    "global_dp_std": 0.005,
+    "secure_aggregation": true,
+    "encryption": false
+  },
+  "rounds": [
+    {
+      "timestamp": "2026-04-12T00:02:47.385571",
+      "round": 1,
+      "accuracy": 0.6835,
+      "local_dp_std": 0.01,
+      "global_dp_std": 0.005,
+      "secure_aggregation": true,
+      "encryption": false
+    },
+    {
+      "timestamp": "2026-04-12T00:08:10.197229",
+      "round": 2,
+      "accuracy": 0.7089,
+      "local_dp_std": 0.01,
+      "global_dp_std": 0.005,
+      "secure_aggregation": true,
+      "encryption": false
+    },
+    {
+      "timestamp": "2026-04-12T00:14:06.470364",
+      "round": 3,
+      "accuracy": 0.7215,
+      "local_dp_std": 0.01,
+      "global_dp_std": 0.005,
+      "secure_aggregation": true,
+      "encryption": false
+    },
+    {
+      "timestamp": "2026-04-12T00:19:52.150087",
+      "round": 4,
+      "accuracy": 0.3418,
+      "local_dp_std": 0.01,
+      "global_dp_std": 0.005,
+      "secure_aggregation": true,
+      "encryption": false
+    },
+    {
+      "timestamp": "2026-04-12T00:26:16.609444",
+      "round": 5,
+      "accuracy": 0.7215,
+      "local_dp_std": 0.01,
+      "global_dp_std": 0.005,
+      "secure_aggregation": true,
+      "encryption": false
+    }
+  ]
+}
