@@ -1,3 +1,7 @@
+# Video 
+phase 1 : https://drive.google.com/file/d/1-7CJTI5-nSLhDFe36UUTiBZNfHore6P-/view?usp=drive_link
+phase 2: https://drive.google.com/file/d/1QstSIEdoAT7uoLPJKO6imcQHaM1_5WWh/view?usp=sharing
+
 # Federated Breast Cancer Classification
 
 This project demonstrates a federated learning approach for breast cancer image classification using a Vision Transformer (ViT) model and PyTorch.
